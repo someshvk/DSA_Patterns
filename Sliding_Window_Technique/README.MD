@@ -2,7 +2,8 @@
 ### What is Sliding Window ?
 <p>
   The name itself suggests what it is. There is a sequence of given length in which we consider a particular segment( window ) to perform certain operation. If we get required result from current segment( window ) then our work is done, if not then we move our segment( window ) furthur till we reach the end.<br>
-  By sliding it mean that we are just pushing that window furthur into the sequence and not repeatedly calculating results again and again.
+  By sliding it mean that we are just pushing that window furthur into the sequence and not repeatedly calculating results again and again.<br>
+  We can have linear time complexity O(n) with this technique.
   Still not understood? Here's a visual demo,
 </p>
 <div align="center">
@@ -24,3 +25,16 @@
     <img src="https://raw.githubusercontent.com/someshvk/DSA_Patterns/main/Sliding_Window_Technique/images/variable_window.gif" alt="variable_window" />
   </div>
 </p>
+
+##
+### How to identify?
+<p>You can identify this pattern by checking following points,</p>
+<ol>
+  <li>The given problem is on a linear data structure like Arrays, Strings or a Linked Lists.</li>
+  <li>When asked to find Subarrays, Substrings or a contiguous sunsequence.</li>
+  <li>When asked to calculate Minimum, Maximum, Longest, Shortest or Contained value within a sequence.</li>
+  <li>When asked something like k-distinct, k elements,...</li>
+</ol>
+
+##
+###
