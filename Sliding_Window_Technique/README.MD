@@ -37,6 +37,14 @@
 </ol>
 
 ##
+### How to solve?
+<p>
+  Consider that you have to find the maximum sum subarray from the given array.<br>
+  <b>array = [4, 2, 1 ,7, 8, 1]</b><br>
+  
+</p>
+
+##
 ### Some resources for more clarity
 <ol>
   <li><a href="https://www.youtube.com/watch?v=MK-NZ4hN7rs" target="_blank">Sliding Window Technique YouTube video</a></li>
