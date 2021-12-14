@@ -4,3 +4,6 @@
   The name itself suggests what it is. There is a sequence of given length in which we consider a particular segment( window ) to perform certain operation. If we get required result from current segment( window ) then our work is done, if not then we move our segment( window ) furthur till we reach the end.<br>
   Still not understood? Here's a visual demo,
 </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/someshvk/DSA_Patterns/main/Sliding_Window_Technique/images/Sliding-window-technique.jpg" alt="sliding_window" />
+</div>
