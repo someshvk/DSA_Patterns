@@ -1,4 +1,4 @@
-## About this repo
+## 🔴 About this repo
 
 <p>
   Preparing for coding interviews is a hell of a lot of work. You have to go through a lot. Understanding different data structures and algorithms and then solving different questions on them is very important. There's no shortcut to that; you would have to solve coding questions. And while solving these coding questions, most of the time, you would notice repetitions in the way of solving these questions. You will notice certain patterns in solving these questions. <br><br>
