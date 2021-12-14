@@ -57,10 +57,10 @@
 </p>
 
 ##
-### What next?
+### 🤔 What next?
 If you still don't understand sliding window then I would recommend to take a look at the recources mentioned below.<br>
 If you understood Sliding window completely, then it is the time to jump to questions. I have also provided answers to all questions. First solve the problem on your own, if you are finding it difficult then you can check the answers.<br>
-Best Luck !
+Best Luck! 👍🏻
 
 ##
 ### Some resources for more clarity
