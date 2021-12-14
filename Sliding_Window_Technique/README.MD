@@ -37,4 +37,8 @@
 </ol>
 
 ##
-###
+### Some resources for more clarity
+<ol>
+  <li><a href="https://www.youtube.com/watch?v=MK-NZ4hN7rs" target="_blank">Sliding Window Technique YouTube video</a></li>
+  <li><a href="https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66" target="_blank">Article on medium</a></li>
+</ol>
