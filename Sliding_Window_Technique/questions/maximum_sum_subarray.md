@@ -42,6 +42,21 @@ def maxSumSubArray(nums: List[int], k: int):
   # Stores the sum of current window
   current_sum = 0
   
+  # Stores the begining and ending index of window element
+  begin = end = 0
   
-  
+  for i in range(len(nums)):
+    # sum the window items
+    current_sum += nums[i]
+    
+    # if window size is more than k
+    if (i+1) >= k:
+      # If current sum is greater than max sum
+      if max_sum_so_far < current_sum:
+        max_sum_so_far = current_sum
+        end = i
+      # Store first item's position of window in begin
+      begin = i+1-k
+      current_sum -= nums[begin]
+   print("Maximum sum subarray from index ", begin, "to ", end)
 ```
