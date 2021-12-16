@@ -23,3 +23,25 @@
 <div>-------------------------------------------------------------------------------------------------------------------------------------------------------</div>
 
 # Answer
+<p>
+  We can solve this question using Sliding window technique. We have to maintain a window of size k and whenever we slide our window through the array elements, add the upcoming element to the window and remove the leftmost element. For every window, if current sum is greater than maximum sum so far, then store current sum in max_sum_so_far variable. Repeat this till window reach the end of the array.<br>
+  Following is the code in Python,
+</p>
+
+```Python
+import math
+
+# Function to find the max sum subarray of size k
+def maxSumSubArray(nums: List[int], k: int):
+  if k >= len(nums) or len(nums) < 1:
+    return
+    
+  # Stores the sum of maximum sum subarray so far
+  max_sum_so_far = -math.inf
+  
+  # Stores the sum of current window
+  current_sum = 0
+  
+  
+  
+```
