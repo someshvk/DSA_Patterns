@@ -25,6 +25,7 @@
 # Answer
 <p>
   We can solve this question using Sliding window technique. We have to maintain a window of size k and whenever we slide our window through the array elements, add the upcoming element to the window and remove the leftmost element. For every window, if current sum is greater than maximum sum so far, then store current sum in max_sum_so_far variable. Repeat this till window reach the end of the array.<br>
+  The time complexity of following code is <b>O(n)</b> without any extra space.<br>
   Following is the code in Python,
 </p>
 
