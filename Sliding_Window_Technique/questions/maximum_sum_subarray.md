@@ -65,3 +65,8 @@ if __name__ == "__main__":
   k = 3
   maxSumSubArray(nums, k)
 ```
+
+<p>
+  <b>Output :</b><br>
+  Maximum sum subarray from index 0 to 2
+</p>
